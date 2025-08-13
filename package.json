@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist -b live"
+    "deploy": "gh-pages -d dist -b live -r https://github.com/DugWane/Test-Publish-Website.git"
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
